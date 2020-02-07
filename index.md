@@ -5,6 +5,6 @@
     <title>catbage</title>
 </head>
 <body>
-<h>欢迎光临catbage茶室<h>
+<h1>欢迎光临catbage茶室<h1>
 </body>
 </html>
